@@ -1,4 +1,2 @@
 # US-state-game
 ***A educational tool for children to learn states of US in a fun &amp; interactive way.***
-
-This project is a fun and educational Python application that utilizes the Turtle graphics library and the pandas module to create an interactive U.S. states guessing game. It presents a map of the United States and prompts the user to guess the names of the states by clicking on them. The program tracks the guessed states, remaining lives, and allows users to exit the game at any time. It also keeps a record of missed states and saves them to a CSV file for later reference. Key modules used include Turtle for graphics, pandas for data handling, and Python's built-in functionalities for game logic and user interaction. This project provides an engaging way to learn U.S. state geography while showcasing the capabilities of Python's libraries.
